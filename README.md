@@ -34,4 +34,4 @@ You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main
 - **Mastodon**: [@ashentwisle](https://hachyderm.io/@ashentwisle)
 - **GPG**: [Public Key](https://raw.githubusercontent.com/ash-entwisle/ash-entwisle/main/gpg.pub) 
 
-*My most reliable point of contact is my Email and LinkedIn*
+*My most reliable point of contact is my Email*
