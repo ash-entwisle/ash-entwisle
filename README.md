@@ -8,7 +8,7 @@ I like working on all projects, big and small.
 From stuff that runs on small microcontrollers to large scale web applications in the cloud.
 I always love a challenge and learning about new languages, frameworks, tools and workflows.
 
-If you want to reach out, feel free to [contact me](/contact).
+If you want to reach out, feel free to [contact me](https://ashentwisle.com/contact).
 You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main/cv.pdf)
 
 # My Toolkit
@@ -27,6 +27,7 @@ You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main
 - **Email**: [ash.entwisle@protonmail.com](mailto:ash.entwisle@protonmail.com)
 - **LinkedIn**: [@ash-entwisle](https://www.linkedin.com/in/ash-entwisle/)
 - **GitHub**: [@ash-entwisle](https://github.com/ash-entwisle)
+- **Website**: [ashentwisle.com](https://ashentwisle.com/)
 - **Keybase**: [@ashentwisle](https://keybase.io/ashentwisle)
 - **Cohost**: [@ash-e](https://cohost.org/ash-e)
 - **Matrix**: [@sudo-rm-rf-msft](https://matrix.to/#/@sudo-rm-rf-msft:matrix.org)
