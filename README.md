@@ -35,3 +35,5 @@ You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main
 - **GPG**: [Public Key](https://raw.githubusercontent.com/ash-entwisle/ash-entwisle/main/gpg.pub) 
 
 *My most reliable point of contact is my Email*
+
+*NOTE: some recent commits will say unverified, thats bc i done goofed and forgot to update my email :D*
