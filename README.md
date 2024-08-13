@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student currently on placement 
+I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student (currently on placement) 
 who loves rust, linux, mechanical keyboards and blue ikea sharks *:3*. 
 I'm currently learning rust and c# and tinkering with astro to create simple websites.
 
