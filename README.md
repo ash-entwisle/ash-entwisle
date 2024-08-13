@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student 
+I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student currently on placement 
 who loves rust, linux, mechanical keyboards and blue ikea sharks *:3*. 
 I'm currently learning rust and c# and tinkering with astro to create simple websites.
 
@@ -13,18 +13,19 @@ You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main
 
 # My Toolkit
 
-- **OS**: Arch Linux (hyprland and i3-gaps)
-- **Editor**: VSCode, NeoVim, Helix
+- **OS**: Arch Linux / NixOS (workstation and laptop respectively)
+- **WM**: Hyprland
+- **Editor**: VSCode, Helix, Zed
 - **Terminal**: Kitty
 - **Browser**: Firefox Nightly
-- **Shell**: Fish/Bash
-- **Keyboard**: Let's Split Rev.2 (QMK: colemak/custom) w. Boba U4
+- **Shell**: Bash-Fish
+- **Keyboard**: ZSA Voyager
 
-*// TODO: add dotfiles*
+*you can find my dotfiles [here](https://github.com/ash-entwisle/dotfiles/tree/main/configs)*
 
 # Links
 
-- **Email**: [ash.entwisle@protonmail.com](mailto:ash.entwisle@protonmail.com)
+- **Email**: [ash@entwisle.dev](mailto:ash@entwisle.dev)
 - **LinkedIn**: [@ash-entwisle](https://www.linkedin.com/in/ash-entwisle/)
 - **GitHub**: [@ash-entwisle](https://github.com/ash-entwisle)
 - **Website**: [ashentwisle.com](https://ashentwisle.com/)
