@@ -8,9 +8,6 @@ I like working on all projects, big and small.
 From stuff that runs on small microcontrollers to large scale web applications in the cloud.
 I always love a challenge and learning about new languages, frameworks, tools and workflows.
 
-If you want to reach out, feel free to [contact me](https://ashentwisle.com/contact).
-You can find [my CV here](https://raw.githubusercontent.com/ash-entwisle/cv/main/cv.pdf)
-
 # My Toolkit
 
 - **OS**: Arch Linux / NixOS (workstation and laptop respectively)
