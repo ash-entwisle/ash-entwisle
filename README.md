@@ -1,8 +1,8 @@
 # Hello, World!
 
-I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student (currently on placement) 
-who loves rust, linux, mechanical keyboards and blue ikea sharks *:3*. 
-I'm currently learning rust and c# and tinkering with astro to create simple websites.
+I'm Ash!<sub>*(she/they)*</sub> A very *✨🏳️‍⚧️ queer 🏳️‍⚧️✨* 2nd year Comp-Sci student Working in [HIVE](https://www.hull.ac.uk/faculties/subjects/features/computer-science-facilities) 
+building robots.
+I love rust, linux, mechanical keyboards and blue ikea sharks *:3*. 
 
 I like working on all projects, big and small. 
 From stuff that runs on small microcontrollers to large scale web applications in the cloud.
