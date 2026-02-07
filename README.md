@@ -7,6 +7,8 @@ I like working on all projects, big and small.
 From stuff that runs on small microcontrollers to large scale web applications in the cloud.
 I always love a challenge and learning about new languages, frameworks, tools and workflows.
 
+Currently, I am building a [markup language that doesnt suck](https://codeberg.org/newtlang)
+
 *NOTE: I am moving all my projects over to [codeberg](https://codeberg.org/sudo_rm_rf_msft), find me there!*
 
 # Links
